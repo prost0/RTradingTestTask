@@ -1,0 +1,6 @@
+HashMap: 4042 insert ns/iter
+HashMap: 537 find ns/iter
+HashMap: 1277 erase ns/iter
+std::unordered_map: 3694 insert ns/iter
+std::unordered_map: 2300 find ns/iter
+std::unordered_map: 9243 erase ns/iter
